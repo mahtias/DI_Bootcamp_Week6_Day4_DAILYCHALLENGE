@@ -6,11 +6,7 @@ package di.atos.dailychallengeweek6day4;
 import di.atos.dailychallengeweek6day4.challenge.Calculator;
 
 
-/**
- *
- * @author KONATE-MK
- *@date 29/01/2023
- */
+
 public class DailyChallengeWeek6Day4 {
 
     public static void main(String[] args) {
@@ -24,8 +20,3 @@ public class DailyChallengeWeek6Day4 {
 }
 
 
-/**
- *
- * @author KONATE-MK
- *@date 29/01/2023
- */

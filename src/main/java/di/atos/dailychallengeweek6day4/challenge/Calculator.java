@@ -5,11 +5,7 @@
 package di.atos.dailychallengeweek6day4.challenge;
 
 
-/**
- *
- * @author KONATE-MK
- *@date 29/01/2023
- */
+
 public class Calculator {
     // write class fields here
     private double num1;
@@ -45,8 +41,3 @@ public class Calculator {
 
 
 
-/**
- *
- * @author KONATE-MK
- *@date 29/01/2023
- */
